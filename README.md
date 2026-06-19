@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Felipe — a Full Stack Developer who loves what he does!
+# 👋 Hey, I'm Felipe — a Full-Stack Software Engineer (Front-End focused!!!) who loves what he does!
 
 ## 👨🏻‍💻 About Me
 
@@ -64,7 +64,10 @@ My experience spans retail, healthcare, and international projects. I enjoy buil
 ## 🎓 Education
 
 - **B.Sc. in Software Engineering** — Federal Institute of Goiás *(Graduated Sep 2025)*
-- **Cambridge First Certificate in English (FCE)** — B2/C1 Level
+
+## 🌐 Languages
+- **English** - Professional
+- **Portuguese** - Native
 
 ---
 
