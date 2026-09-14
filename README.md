@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Felipe — a Full-Stack Software Engineer (Front-End focused!!!) who loves what he does!
+# 👋 Hey, I'm Felipe — a Full-Stack Software Engineer!
 
 ## 👨🏻‍💻 About Me
 
